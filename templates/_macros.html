@@ -2,10 +2,11 @@
 
 {% macro tags(r, LANGS, CATS, ING, limit=99) %}<span class="tag lang">{{ LANGS.get(r.language, r.language) }}</span><span class="tag cat">{{ CATS[r.category][0] }} {{ CATS[r.category][1] }}</span>{% for k in r.ingredients[:limit] %}<a class="tag" href="{{ url_for('ingredient', key=k) }}">{{ ING[k].emoji }} {{ ING[k].ko }}</a>{% endfor %}{% if r.ingredients|length > limit %}<span class="note">…외 {{ r.ingredients|length - limit }}</span>{% endif %}{% endmacro %}
 
-{% macro rows(items, imgs, LANGS, CATS, ING, start=0) %}
+{# searchable=True 이면 브라우저에서 거를 수 있게 행마다 조건 값을 붙인다 (static/recipes.js) #}
+{% macro rows(items, imgs, LANGS, CATS, ING, start=0, searchable=False) %}
 <div class="scroll"><table class="t">
 <tr><th>No.</th><th>사진</th><th>질문 (Ｑ)</th></tr>
-{% for r in items %}<tr>
+{% for r in items %}<tr{% if searchable %} data-id="{{ r.id }}" data-lang="{{ r.language }}" data-cat="{{ r.category }}" data-ing="{{ r.ingredients|join(' ') }}" data-text="{{ (r.q ~ ' ' ~ r.a ~ ' ' ~ r.query ~ ' ' ~ r.answer)|lower }}"{% endif %}>
   <td class="c">{{ start + loop.index }}</td>
   <td class="thumb">{{ thumb(r, imgs) }}</td>
   <td><a href="{{ url_for('recipe', rid=r.id) }}"><b>{{ r.q }}</b></a><br>

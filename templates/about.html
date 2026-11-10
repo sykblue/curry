@@ -27,5 +27,9 @@
 <ul>
   {% for d in downloads %}<li><a href="{{ url_for('download', name=d) }}">{{ d }}</a></li>{% endfor %}
 </ul>
+{% if static_mode %}
+<p class="small">JSON: <a href="{{ url_for('index') }}api/recipes.json">api/recipes.json</a> ／ <a href="{{ url_for('index') }}api/ingredients.json">api/ingredients.json</a> ／ <a href="{{ url_for('index') }}api/kg.json">api/kg.json</a> (레시피 ─ 식재료 ─ 영양소 그래프)</p>
+{% else %}
 <p class="small">JSON API: <a href="{{ url_for('api_recipes') }}">/api/recipes</a> (lang, cat, ing, q 로 거르기) ／ <a href="{{ url_for('api_ingredients') }}">/api/ingredients</a> ／ <a href="{{ url_for('api_kg') }}">/api/kg</a></p>
+{% endif %}
 {% endblock %}

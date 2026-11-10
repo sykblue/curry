@@ -1,11 +1,12 @@
 """카레의 작은 방 — 카레 레시피 소개 사이트 (Flask)
 
 데이터는 모두 data/ 의 CSV·JSON 에서 읽는다 (tools/02_build_dataset.py 가 만든다).
-    python app.py   →  http://127.0.0.1:5050
+    python app.py                      →  http://127.0.0.1:5050
+    python tools/03_export_static.py   →  GitHub Pages 용 고정 파일 (_site/)
 """
-import csv, datetime, json, os, random, re, threading, time, urllib.request
+import csv, datetime, json, os, random, re
 from collections import Counter
-from flask import Flask, abort, jsonify, redirect, render_template, request, send_from_directory, url_for
+from flask import Flask, abort, jsonify, render_template, request, send_from_directory
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
@@ -14,7 +15,7 @@ PER_PAGE = 20
 
 app = Flask(__name__)
 app.json.ensure_ascii = False
-lock = threading.Lock()
+app.config["STATIC_EXPORT"] = False      # 고정 파일로 뽑을 때만 True (찾기·오늘의 카레를 브라우저가 처리)
 KST = datetime.timezone(datetime.timedelta(hours=9))     # 서버 시간대와 관계없이 한국 시간으로 적는다
 
 LANGS = {"ja": "일본어", "ko": "한국어", "en": "영어", "zh": "중국어", "th": "태국어", "ru": "러시아어", "es": "스페인어", "pt": "포르투갈어"}
@@ -66,97 +67,6 @@ def have_images():
         return set()
 
 
-def read_json(name, default):
-    try:
-        with open(os.path.join(DATA, name), encoding="utf-8") as f:
-            return json.load(f)
-    except (OSError, ValueError):
-        return default
-
-
-def write_json(name, obj):
-    tmp = os.path.join(DATA, name + ".tmp")
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(obj, f, ensure_ascii=False, indent=1)
-    os.replace(tmp, os.path.join(DATA, name))
-
-
-# ---------------- 방명록 · 카운터 저장소 ----------------
-# 배포 환경(Render 등)은 서버 파일이 재시작 때 지워지므로 Upstash Redis(REST API)에 저장한다.
-# 환경 변수 UPSTASH_REDIS_REST_URL / UPSTASH_REDIS_REST_TOKEN 이 없으면 이 PC 의 data/*.json 에 저장한다.
-REDIS_URL = os.environ.get("UPSTASH_REDIS_REST_URL", "").rstrip("/")
-REDIS_TOKEN = os.environ.get("UPSTASH_REDIS_REST_TOKEN", "")
-USE_REDIS = bool(REDIS_URL and REDIS_TOKEN)
-COUNTER_START = 1192
-BBS_MAX = 200
-
-
-def redis(*cmd):
-    """Upstash REST: 명령을 JSON 배열로 POST 한다. 실패하면 None (사이트는 계속 뜬다)."""
-    req = urllib.request.Request(REDIS_URL, data=json.dumps([str(c) for c in cmd]).encode("utf-8"),
-                                 headers={"Authorization": "Bearer " + REDIS_TOKEN, "Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=5) as resp:
-            return json.load(resp).get("result")
-    except (OSError, ValueError) as e:
-        app.logger.warning("redis %s failed: %s", cmd[0], e)
-        return None
-
-
-def counter(bump=False):
-    if USE_REDIS:
-        n = redis("INCR", "curry:counter") if bump else redis("GET", "curry:counter")
-        return COUNTER_START + int(n or 0)
-    with lock:
-        c = read_json("counter.json", {"count": COUNTER_START})
-        if bump:
-            c["count"] += 1
-            write_json("counter.json", c)
-        return c["count"]
-
-
-def bbs_posts():
-    """최근 글이 앞에 오는 목록."""
-    if USE_REDIS:
-        out = []
-        for raw in redis("LRANGE", "curry:bbs", 0, BBS_MAX - 1) or []:
-            try:
-                out.append(json.loads(raw))
-            except ValueError:
-                pass
-        return out
-    return list(reversed(read_json("bbs.json", [])))
-
-
-def bbs_add(name, msg):
-    post = {"name": name, "message": msg, "date": datetime.datetime.now(KST).strftime("%Y/%m/%d %H:%M")}
-    if USE_REDIS:
-        post["no"] = int(redis("INCR", "curry:bbs:no") or 0)
-        redis("LPUSH", "curry:bbs", json.dumps(post, ensure_ascii=False))
-        redis("LTRIM", "curry:bbs", 0, BBS_MAX - 1)
-        return
-    with lock:
-        posts = read_json("bbs.json", [])
-        post["no"] = posts[-1]["no"] + 1 if posts else 1
-        posts.append(post)
-        write_json("bbs.json", posts[-BBS_MAX:])
-
-
-_last_post = {}
-
-
-def too_fast(ip):
-    """같은 곳에서 30초 안에 또 쓰는 것을 막는다."""
-    if USE_REDIS:
-        return redis("SET", "curry:bbs:ip:" + ip, 1, "NX", "EX", 30) is None
-    now = time.time()
-    with lock:
-        if now - _last_post.get(ip, 0) < 30:
-            return True
-        _last_post[ip] = now
-        return False
-
-
 def filtered(args):
     lang, cat, ing, q = args.get("lang", ""), args.get("cat", ""), args.get("ing", ""), args.get("q", "").strip().lower()
     out = RECIPES
@@ -173,19 +83,21 @@ def filtered(args):
 
 @app.context_processor
 def common():
-    return {"LANGS": LANGS, "CATS": CATS, "ING": ING, "STATS": STATS, "count": counter(), "imgs": have_images(),
-            "today": datetime.datetime.now(KST).date()}
+    return {"LANGS": LANGS, "CATS": CATS, "ING": ING, "STATS": STATS, "imgs": have_images(),
+            "static_mode": app.config["STATIC_EXPORT"]}
 
 
 # ---------------- 화면 ----------------
 @app.route("/")
 def index():
-    n = counter(bump=True)
     imgs = have_images()
     pool = [r for r in RECIPES if os.path.basename(r["image"]) in imgs and r["category"] in ("method", "ingredients")
             and r["native"] and r["language"] in ("ja", "ko")] or RECIPES
-    pick = random.Random(datetime.datetime.now(KST).date().toordinal()).choice(pool)
-    return render_template("index.html", pick=pick, n=n, kiriban=(n % 100 == 0),
+    if app.config["STATIC_EXPORT"]:
+        picks = pool                      # 후보를 모두 싣고, 브라우저가 날짜로 하나를 고른다
+    else:
+        picks = [random.Random(datetime.datetime.now(KST).date().toordinal()).choice(pool)]
+    return render_template("index.html", picks=picks,
                            lang_count=Counter(r["language"] for r in RECIPES),
                            cat_count=Counter(r["category"] for r in RECIPES),
                            top_ings=sorted(INGS, key=lambda i: -i["count"])[:12])
@@ -193,14 +105,17 @@ def index():
 
 @app.route("/recipes")
 def recipes():
+    ings_sorted = sorted(INGS, key=lambda i: -i["count"])
+    if app.config["STATIC_EXPORT"]:       # 전부 싣고, 거르기·쪽 나누기는 static/recipes.js 가 한다
+        return render_template("recipes.html", items=RECIPES, total=len(RECIPES), page=1, pages=1, args={}, start=0,
+                               ings_sorted=ings_sorted)
     items = filtered(request.args)
     page = max(1, request.args.get("page", 1, type=int))
     pages = max(1, -(-len(items) // PER_PAGE))
     page = min(page, pages)
     args = {k: v for k, v in request.args.items() if k != "page" and v}
     return render_template("recipes.html", items=items[(page - 1) * PER_PAGE: page * PER_PAGE], total=len(items),
-                           page=page, pages=pages, args=args, start=(page - 1) * PER_PAGE,
-                           ings_sorted=sorted(INGS, key=lambda i: -i["count"]))
+                           page=page, pages=pages, args=args, start=(page - 1) * PER_PAGE, ings_sorted=ings_sorted)
 
 
 @app.route("/recipe/<rid>")
@@ -224,22 +139,6 @@ def ingredient(key):
     ing = ING.get(key) or abort(404)
     recs = [r for r in RECIPES if key in r["ingredients"]]
     return render_template("ingredient.html", ing=ing, recs=recs, NUTS=NUTS)
-
-
-@app.route("/bbs", methods=["GET", "POST"])
-def bbs():
-    if request.method == "POST":
-        name = (request.form.get("name") or "").strip()[:20] or "이름 없는 카레 애호가"
-        msg = (request.form.get("message") or "").strip()[:500]
-        ip = (request.headers.get("X-Forwarded-For", request.remote_addr or "").split(",")[0]).strip()
-        if request.form.get("homepage"):          # 사람 눈에 안 보이는 칸: 채워져 있으면 자동 프로그램
-            return redirect(url_for("bbs"))
-        if msg and too_fast(ip):
-            return redirect(url_for("bbs", wait=1))
-        if msg:
-            bbs_add(name, msg)
-        return redirect(url_for("bbs"))
-    return render_template("bbs.html", posts=bbs_posts(), wait=request.args.get("wait"))
 
 
 @app.route("/about")

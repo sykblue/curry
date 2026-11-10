@@ -6,3 +6,4 @@ data/bbs.json
 data/*.tmp
 Japanese-FoodKG-master-main/
 .env
+_site/

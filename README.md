@@ -15,11 +15,10 @@ python app.py
 
 | 주소 | 내용 |
 |---|---|
-| `/` | 처음 화면 — 오늘의 카레, 접속 카운터, 분류별 건수 |
+| `/` | 처음 화면 — 오늘의 카레, 분류별 건수 |
 | `/recipes` | 레시피 수첩 — 언어·궁금한 것·재료·낱말로 찾기 |
 | `/recipe/<id>` | 질문과 답, 원본 레시피 문서 사진, 재료 영양표 |
 | `/ingredients`, `/ingredient/<key>` | 식재료 도감 — 식재료별 영양 성분과 나오는 레시피 |
-| `/bbs` | 방명록 (`data/bbs.json` 에 저장) |
 | `/about` | 자료 출처, 데이터 내려받기 |
 | `/api/recipes`, `/api/recipes/<id>`, `/api/ingredients`, `/api/kg` | JSON API |
 
@@ -53,24 +52,26 @@ python tools/02_build_dataset.py   # CSV · JSON · TTL 만들기
 
 `datasets.load_dataset(...)` 을 쓰지 않은 이유: `filtered` 는 사진이 들어 있어 약 11GB 이고, 이 PC 에서는 pyarrow·pandas 의 DLL 이 애플리케이션 제어 정책에 막혀 있습니다. 그래서 DuckDB 로 parquet 의 글 열만 읽고, 사진은 Hugging Face datasets-server 에서 필요한 행만 받았습니다.
 
-## 배포 (Render)
+## 배포 (GitHub Pages)
 
-`render.yaml` 이 들어 있어 Render 대시보드의 **New > Blueprint** 에서 이 저장소를 고르면 됩니다.
+GitHub Pages 는 고정 파일만 보여 주므로, 사이트를 파일로 뽑아 `gh-pages` 브랜치에 올립니다.
 
-방명록과 접속 카운터는 Upstash Redis 에 저장합니다. Render 의 서버 파일은 재시작하면 지워지기 때문입니다.
-Upstash 에서 Redis 데이터베이스를 만들고, REST API 의 두 값을 Render 환경 변수로 넣습니다.
+```
+python tools/03_export_static.py        # _site/ 에 고정 파일 생성 (주소가 /curry/ 일 때)
+cd _site
+git init -b gh-pages
+git add -A
+git commit -m "사이트 갱신"
+git push -f https://github.com/sykblue/curry.git gh-pages
+```
 
-| 환경 변수 | 값 |
-|---|---|
-| `UPSTASH_REDIS_REST_URL` | Upstash 의 REST URL |
-| `UPSTASH_REDIS_REST_TOKEN` | Upstash 의 REST TOKEN |
-
-두 값이 없으면 `data/bbs.json`, `data/counter.json` 파일에 저장합니다 (내 PC 에서 돌릴 때).
-방명록은 30초에 한 번만 쓸 수 있고, 최근 200개만 남깁니다.
+고정 사이트에서는 레시피 찾기와 "오늘의 카레"를 브라우저 스크립트가 처리합니다 (`static/recipes.js`).
+JSON API 는 `api/recipes.json`, `api/ingredients.json`, `api/kg.json` 파일로 대신합니다.
+저장소 이름을 바꾸면 `python tools/03_export_static.py /새이름` 으로 다시 뽑아야 링크가 맞습니다.
 
 ## 알아 둘 점
 
 - 재료는 질문·답 글에서 낱말을 찾아 붙인 것이라, 빠지거나 잘못 붙은 것이 있습니다.
 - 영양 성분은 재료 100g당 값이며 요리 1인분의 영양가가 아닙니다.
 - 데이터셋의 `language` 는 문서의 언어라서 질문 글의 언어와 다른 행이 있습니다 (예: 일본어 문서에 프랑스어 질문). 목록에서는 뒤쪽에 둡니다.
-- `app.run` 은 개발용 서버입니다. 밖에 공개하려면 waitress 같은 WSGI 서버를 쓰세요.
+- `python app.py` 는 내 PC 에서 볼 때 쓰는 개발용 서버입니다. 공개 사이트는 위의 고정 파일입니다.

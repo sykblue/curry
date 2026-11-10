@@ -43,5 +43,5 @@
   <a href="{{ url_for('recipes') }}">[목록으로]</a>
   {% if next %}<a href="{{ url_for('recipe', rid=next.id) }}">다음 레시피&gt;&gt;</a>{% endif %}
 </p>
-<p class="note center">출처: racineai/VDR_Cooking_Recipes (filtered) {{ r.row_idx }}번째 행 ／ <a href="{{ url_for('api_recipe', rid=r.id) }}">JSON</a></p>
+<p class="note center">출처: racineai/VDR_Cooking_Recipes (filtered) {{ r.row_idx }}번째 행</p>
 {% endblock %}

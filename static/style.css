@@ -55,7 +55,6 @@ marquee a, marquee a:visited { color: #66ffff; }
 #menu li a::before { content: "▶ "; color: var(--hot); font-size: 10px; }
 #menu li small { display: block; margin: -4px 0 3px 14px; color: #886644; font-size: 11px; }
 #menu .now a { font-weight: bold; color: var(--curry-dark); background: #fff; }
-.counter { text-align: center; margin: 0 0 12px; font-size: 12px; }
 .digits { display: inline-block; margin: 3px 0; padding: 2px 5px; background: #000; color: #33ff33; border: 2px inset #999;
   font: bold 17px/1.2 "Courier New", monospace; letter-spacing: 3px; }
 .banner { display: block; width: 88px; height: 31px; margin: 6px auto; border: 2px outset #ccc; background: linear-gradient(#ffcc00, #cc6600);
@@ -81,6 +80,7 @@ table.t { border-collapse: separate; border-spacing: 2px; background: var(--line
 table.t th { background: var(--head); color: #fff; font-weight: bold; padding: 3px 6px; text-align: center; white-space: nowrap; font-size: 13px; }
 table.t td { background: var(--cell); padding: 4px 6px; vertical-align: top; }
 table.t tr:nth-child(even) td { background: #ffffe8; }
+[hidden] { display: none !important; }
 table.t td.num { text-align: right; white-space: nowrap; font-family: "Courier New", monospace; }
 table.t td.c { text-align: center; white-space: nowrap; }
 .scroll { overflow-x: auto; }
