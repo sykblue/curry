@@ -1,0 +1,2362 @@
+﻿food_code,food_name,nutrition_name,value,edge_type,data_source
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,REFUSE,10.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,ENERC,245.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,ENERC_KCAL,59.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,WATER,79.8,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,PROTCAA,1.3,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,PROT-,1.8,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,FAT-,0.1,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CHOAVLM,17.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CHOAVL,15.5,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CHOAVLDF-,8.5,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,FIB-,8.9,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,POLYL,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CHOCDF-,17.3,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,OA,0.5,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,ASH,1.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,NA,1.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,K,410.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CA,4.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,MG,19.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,P,47.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,FE,0.4,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,ZN,0.2,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CU,0.09,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,MN,0.37,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,ID,1.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,SE,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CR,4.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,MO,3.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CARTB,2.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,CARTBEQ,3.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,VITD,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,VITK,1.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,THIA,0.09,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,RIBF,0.03,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,NIA,1.5,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,NE,1.8,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,VITB6A,0.2,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,FOL,20.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,PANTAC,0.5,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,BIOT,0.4,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,VITC,28.0,ingredient-nutrition,seibunhyo
+02017,＜いも類＞ じゃがいも 塊茎 皮なし 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,REFUSE,10.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,ENERC,134.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,ENERC_KCAL,32.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,WATER,89.6,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,PROTCAA,0.5,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,PROT-,0.7,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,FATNLEA,0.1,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,FAT-,0.2,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CHOAVLM,6.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CHOAVL,5.9,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CHOAVLDF-,6.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,FIB-,2.8,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CHOCDF-,8.8,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,OA,0.3,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,ASH,0.7,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,NA,24.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,K,300.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CA,24.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,MG,9.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,P,28.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,FE,0.2,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,ZN,0.2,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CU,0.04,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,MN,0.11,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CR,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CARTA,2600.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CARTB,6300.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,CARTBEQ,7600.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,VITA_RAE,630.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,TOCPHA,0.5,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,VITK,4.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,THIA,0.04,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,RIBF,0.03,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,NIA,0.7,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,NE,0.8,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,VITB6A,0.09,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,FOL,23.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,PANTAC,0.27,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,BIOT,2.5,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,VITC,4.0,ingredient-nutrition,seibunhyo
+06214,（にんじん類） にんじん 根 皮なし 生,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,REFUSE,6.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,ENERC,139.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,ENERC_KCAL,33.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,WATER,90.1,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,PROTCAA,0.7,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,PROT-,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CHOLE,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,FAT-,0.1,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CHOAVLM,7.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CHOAVL,6.9,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CHOAVLDF-,7.1,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,FIB-,1.5,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CHOCDF-,8.4,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,OA,0.2,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,ASH,0.4,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,NA,2.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,K,150.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CA,17.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,MG,9.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,P,31.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,FE,0.3,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,ZN,0.2,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CU,0.05,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,MN,0.15,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,ID,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,SE,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CR,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,MO,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CARTB,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,CARTBEQ,1.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,VITK,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,THIA,0.04,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,RIBF,0.01,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,NIA,0.1,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,NE,0.3,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,VITB6A,0.14,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,FOL,15.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,PANTAC,0.17,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,BIOT,0.6,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,VITC,7.0,ingredient-nutrition,seibunhyo
+06153,（たまねぎ類） たまねぎ りん茎 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,REFUSE,9.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,ENERC,544.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,ENERC_KCAL,129.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,WATER,63.9,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,PROTCAA,4.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,PROT-,6.4,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,FATNLEA,0.5,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,FAT-,0.9,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CHOAVLM,1.1,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CHOAVL,1.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CHOAVLDF-,24.1,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,FIB-,6.2,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CHOCDF-,27.5,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,OA,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,ASH,1.4,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,NA,8.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,K,510.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CA,14.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,MG,24.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,P,160.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,FE,0.8,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,ZN,0.8,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CU,0.16,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,MN,0.28,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,ID,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,SE,1.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CR,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,MO,16.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CARTB,2.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,CARTBEQ,2.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,TOCPHA,0.5,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,VITK,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,THIA,0.19,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,RIBF,0.07,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,NIA,0.7,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,NE,1.8,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,VITB6A,1.53,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,FOL,93.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,PANTAC,0.55,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,BIOT,2.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,VITC,12.0,ingredient-nutrition,seibunhyo
+06223,（にんにく類） にんにく りん茎 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,REFUSE,20.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,ENERC,117.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,ENERC_KCAL,28.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,WATER,91.4,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,PROTCAA,0.7,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,PROT-,0.9,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,FATNLEA,0.2,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,FAT-,0.3,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CHOAVLM,4.2,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CHOAVL,4.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CHOAVLDF-,4.6,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,FIB-,2.1,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CHOCDF-,6.6,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,OA,0.1,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,ASH,0.7,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,NA,6.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,K,270.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CA,12.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,MG,27.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,P,25.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,FE,0.5,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,ZN,0.1,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CU,0.06,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,MN,5.01,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,ID,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,SE,1.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CR,1.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,MO,6.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CARTA,1.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CARTB,4.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,CARTBEQ,5.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,TOCPHG,0.8,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,VITK,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,THIA,0.03,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,RIBF,0.02,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,NIA,0.6,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,NE,0.8,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,VITB6A,0.13,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,FOL,8.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,PANTAC,0.21,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,BIOT,0.7,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,VITC,2.0,ingredient-nutrition,seibunhyo
+06103,（しょうが類） しょうが 根茎 皮なし 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,REFUSE,3.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,ENERC,83.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,ENERC_KCAL,20.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,WATER,94.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,PROTCAA,0.5,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,PROT-,0.7,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,FATNLEA,0.1,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,FAT-,0.1,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CHOAVLM,3.1,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CHOAVL,3.1,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CHOAVLDF-,3.5,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,FIB-,1.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,POLYL,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CHOCDF-,4.7,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,OA,0.4,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,ASH,0.5,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,NA,3.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,K,210.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CA,7.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,MG,9.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,P,26.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,FE,0.2,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,ZN,0.1,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CU,0.04,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,MN,0.08,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,SE,1.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,MO,2.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CARTA,4.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CARTB,540.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,CARTBEQ,540.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,VITA_RAE,45.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,TOCPHA,0.9,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,TOCPHG,0.2,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,VITK,4.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,THIA,0.05,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,RIBF,0.02,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,NIA,0.7,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,NE,0.8,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,VITB6A,0.08,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,FOL,22.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,PANTAC,0.17,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,BIOT,2.3,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,VITC,15.0,ingredient-nutrition,seibunhyo
+06182,（とまと類） 赤色とまと 果実 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,REFUSE,10.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,ENERC,77.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,ENERC_KCAL,18.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,WATER,93.2,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,PROTCAA,0.7,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,PROT-,1.1,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CHOLE,1.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,FAT-,0.1,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CHOAVLM,2.6,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CHOAVL,2.6,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CHOAVLDF-,3.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,FIB-,2.2,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CHOCDF-,5.1,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,OA,0.4,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,ASH,0.5,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,K,220.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CA,18.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,MG,17.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,P,30.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,FE,0.3,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,ZN,0.2,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CU,0.06,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,MN,0.16,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,ID,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,SE,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CR,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,MO,10.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CARTB,100.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CRYPXB,1.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,CARTBEQ,100.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,VITA_RAE,8.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,TOCPHA,0.3,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,VITK,10.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,THIA,0.05,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,RIBF,0.05,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,NIA,0.5,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,NE,0.7,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,VITB6A,0.05,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,FOL,32.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,PANTAC,0.33,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,BIOT,2.3,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,VITC,4.0,ingredient-nutrition,seibunhyo
+06191,（なす類） なす 果実 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,REFUSE,10.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,ENERC,75.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,ENERC_KCAL,18.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,WATER,92.4,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,PROTCAA,1.7,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,PROT-,2.2,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,FATNLEA,0.2,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,FAT-,0.4,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CHOAVLM,0.3,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CHOAVL,0.3,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CHOAVLDF-,0.1,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,FIB-,2.8,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CHOCDF-,3.1,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,OA,0.9,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,ASH,1.7,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,NA,16.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,K,690.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CA,49.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,MG,69.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,P,47.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,FE,2.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,ZN,0.7,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CU,0.11,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,MN,0.32,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,ID,3.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,SE,3.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CR,2.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,MO,5.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CARTB,4200.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CRYPXB,34.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,CARTBEQ,4200.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,VITA_RAE,350.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,TOCPHA,2.1,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,TOCPHG,0.2,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,VITK,270.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,THIA,0.11,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,RIBF,0.2,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,NIA,0.6,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,NE,1.3,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,VITB6A,0.14,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,FOL,210.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,PANTAC,0.2,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,BIOT,2.9,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,VITC,35.0,ingredient-nutrition,seibunhyo
+06267,ほうれんそう 葉 通年平均 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,REFUSE,10.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,ENERC,331.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,ENERC_KCAL,78.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,WATER,76.2,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,PROTCAA,1.2,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,PROT-,1.9,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,FATNLEA,0.2,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,FAT-,0.3,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CHOAVLM,17.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CHOAVL,15.9,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CHOAVLDF-,17.6,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,FIB-,3.5,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CHOCDF-,20.6,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,OA,0.4,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,ASH,1.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,NA,1.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,K,430.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CA,22.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,MG,25.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,P,48.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,FE,0.4,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,ZN,0.3,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CU,0.07,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,MN,0.07,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,SE,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CR,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,MO,5.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CARTA,17.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CARTB,2500.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CRYPXB,90.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,CARTBEQ,2600.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,VITA_RAE,210.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,TOCPHA,3.9,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,TOCPHB,0.1,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,TOCPHG,1.2,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,VITK,37.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,THIA,0.07,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,RIBF,0.08,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,NIA,1.4,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,NE,1.7,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,VITB6A,0.23,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,FOL,42.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,PANTAC,0.62,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,BIOT,1.9,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,VITC,43.0,ingredient-nutrition,seibunhyo
+06048,（かぼちゃ類） 西洋かぼちゃ 果実 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,REFUSE,15.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,ENERC,85.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,ENERC_KCAL,20.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,WATER,93.4,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,PROTCAA,0.7,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,PROT-,0.9,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,FATNLEA,0.1,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,FAT-,0.2,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CHOAVLM,2.3,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CHOAVL,2.3,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CHOAVLDF-,3.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,FIB-,2.3,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CHOCDF-,5.1,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,OA,0.2,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,ASH,0.4,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,NA,1.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,K,190.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CA,11.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,MG,11.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,P,22.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,FE,0.4,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,ZN,0.2,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CU,0.06,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,MN,0.1,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,SE,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CR,1.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,MO,3.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CARTA,6.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CARTB,400.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CRYPXB,3.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,CARTBEQ,400.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,VITA_RAE,33.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,TOCPHA,0.8,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,VITK,20.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,THIA,0.03,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,RIBF,0.03,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,NIA,0.6,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,NE,0.8,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,VITB6A,0.19,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,FOL,26.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,PANTAC,0.3,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,BIOT,1.6,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,VITC,76.0,ingredient-nutrition,seibunhyo
+06245,（ぴーまん類） 青ぴーまん 果実 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,REFUSE,5.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,ENERC,62.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,ENERC_KCAL,15.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,WATER,93.9,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,PROTCAA,1.7,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,PROT-,2.9,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,FATNLEA,0.1,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,FAT-,0.3,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CHOAVLM,0.1,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CHOAVL,0.1,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CHOAVLDF-,0.2,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,FIB-,2.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,POLYL,1.3,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CHOCDF-,2.1,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,ASH,0.8,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,NA,6.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,K,350.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CA,3.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,MG,10.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,P,100.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,FE,0.3,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,ZN,0.4,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CU,0.32,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,MN,0.04,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,ID,1.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,SE,14.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CR,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,MO,2.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CARTB,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,VITD,0.3,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,TOCPHA,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,VITK,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,THIA,0.06,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,RIBF,0.29,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,NIA,3.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,NE,3.6,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,VITB6A,0.11,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,FOL,28.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,PANTAC,1.54,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,BIOT,11.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,VITC,0.0,ingredient-nutrition,seibunhyo
+08031,まっしゅるーむ 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,REFUSE,15.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,ENERC,95.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,ENERC_KCAL,23.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,WATER,92.9,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,PROTCAA,0.8,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,PROT-,1.2,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,FAT-,0.1,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CHOAVLM,3.9,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CHOAVL,3.9,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CHOAVLDF-,3.7,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,FIB-,1.8,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CHOCDF-,5.2,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,OA,0.1,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,ASH,0.5,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,NA,5.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,K,190.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CA,42.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,MG,14.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,P,26.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,FE,0.3,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,ZN,0.1,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CU,0.02,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,MN,0.13,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,ID,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,SE,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CR,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,MO,2.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CARTB,24.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,CARTBEQ,24.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,VITA_RAE,2.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,VITK,79.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,THIA,0.04,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,RIBF,0.03,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,NIA,0.2,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,NE,0.4,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,VITB6A,0.1,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,FOL,66.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,PANTAC,0.19,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,BIOT,1.5,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,VITC,38.0,ingredient-nutrition,seibunhyo
+06061,（きゃべつ類） きゃべつ 結球葉 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,REFUSE,40.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,ENERC,146.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,ENERC_KCAL,35.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,WATER,89.6,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,PROTCAA,1.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,PROT-,1.4,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CHOLE,2.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,FAT-,0.1,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CHOAVLM,3.6,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CHOAVL,3.6,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CHOAVLDF-,6.4,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,FIB-,2.5,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CHOCDF-,8.3,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,ASH,0.5,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,K,200.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CA,36.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,MG,13.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,P,27.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,FE,0.3,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,ZN,0.3,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CU,0.04,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,MN,0.12,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,ID,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CR,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,MO,2.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CARTB,82.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CRYPXB,1.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,CARTBEQ,83.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,VITA_RAE,7.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,TOCPHA,0.2,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,VITK,8.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,THIA,0.05,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,RIBF,0.04,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,NIA,0.4,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,NE,0.6,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,VITB6A,0.12,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,FOL,72.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,PANTAC,0.17,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,BIOT,1.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,VITC,14.0,ingredient-nutrition,seibunhyo
+06226,（ねぎ類） 根深ねぎ 葉 軟白 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,REFUSE,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,ENERC,317.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,ENERC_KCAL,76.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,WATER,76.5,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,PROTCAA,5.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,PROT-,6.9,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,FATNLEA,0.2,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,FAT-,0.4,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CHOAVLM,12.8,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CHOAVL,11.8,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CHOAVLDF-,9.5,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,FIB-,7.7,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CHOCDF-,15.3,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,OA,0.2,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,ASH,0.9,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,NA,1.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,K,340.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CA,23.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,MG,37.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,P,120.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,FE,1.7,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,ZN,1.2,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CU,0.19,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,MN,0.48,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,ID,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,SE,1.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CR,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,MO,65.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CARTA,11.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CARTB,410.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CRYPXB,6.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,CARTBEQ,420.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,VITA_RAE,35.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,TOCPHG,2.6,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,VITK,27.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,THIA,0.39,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,RIBF,0.16,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,NIA,2.7,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,NE,3.7,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,VITB6A,0.15,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,FOL,76.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,PANTAC,0.63,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,BIOT,6.3,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,VITC,19.0,ingredient-nutrition,seibunhyo
+06023,（えんどう類） ぐりんぴーす 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,REFUSE,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,ENERC,624.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,ENERC_KCAL,149.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,WATER,59.6,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,PROTCAA,7.9,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,PROT-,9.5,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,FATNLEA,2.1,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CHOLE,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,FAT-,2.5,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CHOAVLM,20.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CHOAVL,18.2,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CHOAVLDF-,17.8,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,FIB-,11.6,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CHOCDF-,27.4,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,ASH,1.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,NA,5.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,K,350.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CA,45.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,MG,51.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,P,120.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,FE,1.2,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,ZN,1.8,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CU,0.29,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,MN,1.1,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,SE,5.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CR,1.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,MO,56.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,RETOL,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,CARTBEQ,17.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,VITA_RAE,1.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,VITD,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,TOCPHA,1.7,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,TOCPHG,6.5,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,TOCPHD,0.2,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,VITK,6.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,THIA,0.16,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,RIBF,0.07,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,NIA,0.4,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,NE,1.9,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,VITB6A,0.18,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,VITB12,0.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,FOL,110.0,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,PANTAC,0.48,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,BIOT,8.9,ingredient-nutrition,seibunhyo
+04066,ひよこまめ 全粒 ゆで,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,REFUSE,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,ENERC,790.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,ENERC_KCAL,190.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,WATER,68.5,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,PROTCAA,17.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,PROT-,16.6,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,FATNLEA,13.5,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CHOLE,89.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,FAT-,14.2,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CHOAVLM,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CHOAVL,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CHOAVLDF-,0.1,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CHOCDF-,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,ASH,0.9,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,NA,62.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,K,290.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CA,5.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,MG,21.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,P,170.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,FE,0.6,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,ZN,1.6,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CU,0.04,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,MN,0.01,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,SE,17.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CR,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,MO,2.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,RETOL,40.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,CARTB,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,VITA_RAE,40.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,VITD,0.4,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,TOCPHA,0.7,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,TOCPHG,0.1,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,VITK,29.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,THIA,0.1,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,RIBF,0.15,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,NIA,4.8,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,NE,8.5,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,VITB6A,0.25,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,VITB12,0.3,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,FOL,13.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,PANTAC,0.81,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,BIOT,3.5,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,VITC,3.0,ingredient-nutrition,seibunhyo
+11221,＜鳥肉類＞ にわとり ［若どり・主品目］ もも 皮つき 生,NACL_EQ,0.2,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,REFUSE,0.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,ENERC,836.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,ENERC_KCAL,201.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,WATER,65.7,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,PROT-,18.5,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,FATNLEA,14.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CHOLE,65.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,FAT-,14.6,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CHOAVLM,0.2,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CHOAVL,0.2,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CHOAVLDF-,0.8,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CHOCDF-,0.2,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,ASH,1.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,NA,53.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,K,320.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CA,4.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,MG,21.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,P,180.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,FE,0.5,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,ZN,2.7,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CU,0.09,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,MN,0.01,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,RETOL,5.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,VITA_RAE,5.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,VITD,0.2,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,TOCPHA,0.3,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,VITK,1.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,THIA,0.66,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,RIBF,0.23,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,NIA,4.9,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,NE,8.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,VITB6A,0.32,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,VITB12,0.4,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,FOL,2.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,PANTAC,1.16,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,VITC,2.0,ingredient-nutrition,seibunhyo
+11115,＜畜肉類＞ ぶた ［大型種肉］ かた 脂身つき 生,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,REFUSE,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,ENERC,620.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,ENERC_KCAL,148.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,WATER,71.4,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,PROTCAA,16.5,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,PROT-,19.6,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,FATNLEA,7.5,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CHOLE,61.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,FAT-,8.6,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CHOAVLM,0.4,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CHOAVL,0.4,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CHOAVLDF-,3.6,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CHOCDF-,0.4,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,ASH,1.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,NA,41.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,K,310.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CA,3.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,MG,21.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,P,170.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,FE,2.4,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,ZN,3.8,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CU,0.08,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,MN,0.01,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,RETOL,5.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CARTB,2.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,CARTBEQ,2.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,VITA_RAE,5.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,VITD,0.2,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,TOCPHA,0.5,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,VITK,4.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,THIA,0.08,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,RIBF,0.19,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,NIA,5.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,NE,9.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,VITB6A,0.44,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,VITB12,1.5,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,FOL,8.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,PANTAC,0.78,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,VITC,1.0,ingredient-nutrition,seibunhyo
+11075,＜畜肉類＞ うし ［輸入牛肉］ もも 脂身つき 生,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,REFUSE,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,ENERC,868.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,ENERC_KCAL,209.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,WATER,64.8,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,PROTCAA,15.9,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,PROT-,17.7,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,FATNLEA,16.1,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CHOLE,74.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,FAT-,17.2,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CHOAVLM,0.1,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CHOAVL,0.1,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CHOAVLDF-,2.3,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CHOCDF-,0.1,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,ASH,0.9,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,NA,57.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,K,290.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CA,6.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,MG,20.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,P,120.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,FE,1.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,ZN,2.8,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CU,0.07,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,MN,0.01,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,ID,1.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,SE,19.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CR,2.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,MO,1.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,RETOL,9.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CARTB,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,VITA_RAE,9.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,VITD,0.4,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,TOCPHA,0.5,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,VITK,5.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,THIA,0.69,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,RIBF,0.22,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,NIA,5.5,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,NE,8.9,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,VITB6A,0.36,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,VITB12,0.6,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,FOL,2.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,PANTAC,1.22,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,BIOT,3.3,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,VITC,1.0,ingredient-nutrition,seibunhyo
+11163,＜畜肉類＞ ぶた ［ひき肉］ 生,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,REFUSE,0.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,ENERC,1319.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,ENERC_KCAL,319.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,WATER,52.3,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,PROTCAA,10.5,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,PROT-,11.5,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,FATNLEA,29.3,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CHOLE,60.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,FAT-,30.6,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CHOAVLM,3.4,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CHOAVL,3.1,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CHOAVLDF-,5.4,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,FIB-,0.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CHOCDF-,3.3,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,OA,0.2,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,ASH,2.3,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,NA,740.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,K,180.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CA,6.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,MG,12.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,P,200.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,FE,0.5,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,ZN,1.3,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CU,0.05,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,MN,0.03,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,ID,3.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,SE,17.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CR,2.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,MO,2.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,RETOL,2.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CARTA,0.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,VITA_RAE,2.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,VITD,0.4,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,TOCPHA,0.4,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,TOCPHG,0.1,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,VITK,9.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,THIA,0.35,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,RIBF,0.12,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,NIA,3.6,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,NE,5.7,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,VITB6A,0.14,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,VITB12,0.6,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,FOL,1.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,PANTAC,0.6,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,BIOT,4.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,VITC,32.0,ingredient-nutrition,seibunhyo
+11186,＜畜肉類＞ ぶた ［そーせーじ類］ ういんなーそーせーじ ういんなーそーせーじ,NACL_EQ,1.9,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,REFUSE,20.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,ENERC,348.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,ENERC_KCAL,82.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,WATER,78.6,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,PROTCAA,16.5,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,PROT-,19.6,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,FATNLEA,0.3,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CHOLE,160.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,FAT-,0.6,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CHOAVLM,0.7,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CHOAVL,0.6,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CHOAVLDF-,3.3,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CHOCDF-,0.7,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,ASH,1.3,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,NA,140.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,K,270.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CA,68.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,MG,37.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,P,220.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,FE,1.4,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,ZN,1.2,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CU,0.33,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,MN,0.1,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,ID,10.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,SE,27.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CR,2.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CARTB,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,VITD,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,TOCPHA,1.7,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,TOCPHG,0.3,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,VITK,0.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,THIA,0.03,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,RIBF,0.04,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,NIA,3.6,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,NE,6.8,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,VITB6A,0.14,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,VITB12,1.2,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,FOL,38.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,PANTAC,0.23,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,BIOT,1.9,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,VITC,1.0,ingredient-nutrition,seibunhyo
+10415,＜えび・かに類＞ （えび類） ばなめいえび 養殖 生,NACL_EQ,0.3,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,REFUSE,50.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,ENERC,883.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,ENERC_KCAL,211.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,WATER,62.1,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,PROTCAA,17.8,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,PROT-,20.6,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,FATNLEA,12.8,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CHOLE,61.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,FAT-,16.8,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CHOAVLM,0.3,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CHOAVL,0.3,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CHOAVLDF-,6.2,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CHOCDF-,0.3,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,ASH,1.1,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,NA,110.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,K,330.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CA,6.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,MG,30.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,P,220.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,FE,1.2,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,ZN,1.1,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CU,0.12,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,MN,0.01,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,ID,21.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,SE,70.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CR,2.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,MO,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,RETOL,37.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CARTB,1.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,CARTBEQ,1.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,VITA_RAE,37.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,VITD,5.1,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,TOCPHA,1.3,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,VITK,2.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,THIA,0.21,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,RIBF,0.31,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,NIA,12.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,NE,16.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,VITB6A,0.59,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,VITB12,13.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,FOL,11.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,PANTAC,0.66,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,BIOT,4.9,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,VITC,1.0,ingredient-nutrition,seibunhyo
+10154,＜魚類＞ （さば類） まさば 生,NACL_EQ,0.3,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,REFUSE,14.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,ENERC,594.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,ENERC_KCAL,142.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,WATER,75.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,PROTCAA,11.3,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,PROT-,12.2,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,FATNLEA,9.3,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CHOLE,370.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,FAT-,10.2,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CHOAVLM,0.3,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CHOAVL,0.3,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CHOAVLDF-,3.4,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,FIB-,0.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CHOCDF-,0.4,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,ASH,1.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,NA,140.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,K,130.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CA,46.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,MG,10.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,P,170.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,FE,1.5,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,ZN,1.1,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CU,0.05,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,MN,0.02,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,ID,33.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,SE,24.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CR,0.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,MO,4.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,RETOL,210.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CARTB,1.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CRYPXB,12.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,CARTBEQ,7.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,VITA_RAE,210.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,VITD,3.8,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,TOCPHA,1.3,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,TOCPHG,0.5,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,VITK,12.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,THIA,0.06,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,RIBF,0.37,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,NIA,0.1,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,NE,3.2,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,VITB6A,0.09,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,VITB12,1.1,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,FOL,49.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,PANTAC,1.16,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,BIOT,24.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,VITC,0.0,ingredient-nutrition,seibunhyo
+12004,鶏卵 全卵 生,NACL_EQ,0.4,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,REFUSE,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,ENERC,304.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,ENERC_KCAL,73.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,WATER,85.9,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,PROTCAA,6.7,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,PROT-,7.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,FATNLEA,4.5,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CHOLE,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,FAT-,4.9,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CHOAVLM,0.8,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CHOAVL,0.8,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CHOAVLDF-,0.9,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,FIB-,1.1,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CHOCDF-,1.5,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,OA,0.2,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,ASH,0.7,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,NA,9.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,K,110.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CA,93.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,MG,57.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,P,88.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,FE,1.5,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,ZN,0.6,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CU,0.16,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,MN,0.41,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,ID,6.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,SE,4.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CR,4.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,MO,44.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,RETOL,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CARTA,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CARTB,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,VITD,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,TOCPHA,0.2,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,TOCPHG,2.9,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,TOCPHD,1.3,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,VITK,6.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,THIA,0.09,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,RIBF,0.04,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,NIA,0.2,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,NE,1.9,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,VITB6A,0.05,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,VITB12,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,FOL,12.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,PANTAC,0.02,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,BIOT,4.1,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,VITC,0.0,ingredient-nutrition,seibunhyo
+04032,だいず ［豆腐・油揚げ類］ 木綿豆腐,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,REFUSE,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,ENERC,256.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,ENERC_KCAL,61.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,WATER,87.4,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,PROTCAA,3.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,PROT-,3.3,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,FATNLEA,3.5,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CHOLE,12.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,FAT-,3.8,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CHOAVLM,4.7,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CHOAVL,4.4,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CHOAVLDF-,5.3,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,FIB-,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CHOCDF-,4.8,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,OA,0.2,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,ASH,0.7,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,NA,41.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,K,150.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CA,110.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,MG,10.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,P,93.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,FE,0.02,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,ZN,0.4,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CU,0.01,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,ID,16.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,SE,3.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CR,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,MO,4.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,RETOL,38.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CARTA,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CARTB,6.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,CARTBEQ,6.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,VITA_RAE,38.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,VITD,0.3,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,VITK,2.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,THIA,0.04,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,RIBF,0.15,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,NIA,0.1,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,NE,0.9,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,VITB6A,0.03,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,VITB12,0.3,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,FOL,5.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,PANTAC,0.55,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,BIOT,1.8,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,VITC,1.0,ingredient-nutrition,seibunhyo
+13003,＜牛乳及び乳製品＞ （液状乳類） 普通牛乳,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,REFUSE,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,ENERC,178.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,ENERC_KCAL,43.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,WATER,90.8,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,PROTCAA,3.4,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,PROT-,3.6,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,FATNLEA,2.6,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CHOLE,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,FAT-,2.8,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CHOAVLM,1.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CHOAVL,0.9,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CHOAVLDF-,1.6,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,FIB-,0.9,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CHOCDF-,2.3,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,OA,0.2,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,ASH,0.5,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,NA,2.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,K,190.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CA,15.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,MG,25.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,P,49.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,FE,1.2,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,ZN,0.3,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CU,0.12,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,MN,0.23,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,SE,1.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CR,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,MO,54.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,RETOL,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CARTA,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CARTB,1.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,CARTBEQ,1.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,VITD,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,TOCPHG,2.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,TOCPHD,1.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,VITK,4.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,THIA,0.03,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,RIBF,0.02,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,NIA,0.5,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,NE,1.4,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,VITB6A,0.06,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,VITB12,0.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,FOL,28.0,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,PANTAC,0.28,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,BIOT,3.8,ingredient-nutrition,seibunhyo
+04052,だいず ［その他］ 豆乳 豆乳,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,REFUSE,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,ENERC,233.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,ENERC_KCAL,56.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,WATER,87.7,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,PROTCAA,3.3,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,PROT-,3.6,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,FATNLEA,2.8,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CHOLE,12.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,FAT-,3.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CHOAVLM,3.9,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CHOAVL,3.8,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CHOAVLDF-,4.6,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,FIB-,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CHOCDF-,4.9,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,OA,0.9,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,ASH,0.8,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,NA,48.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,K,170.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CA,120.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,MG,12.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,P,100.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,ZN,0.4,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CU,0.01,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,ID,17.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,SE,3.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CR,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,MO,4.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,RETOL,33.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CARTA,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CARTB,3.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,CARTBEQ,3.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,VITA_RAE,33.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,VITD,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,VITK,1.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,THIA,0.04,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,RIBF,0.14,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,NIA,0.1,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,NE,0.9,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,VITB6A,0.04,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,VITB12,0.1,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,FOL,11.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,PANTAC,0.49,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,BIOT,2.5,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,VITC,1.0,ingredient-nutrition,seibunhyo
+13025,＜牛乳及び乳製品＞ （発酵乳・乳酸菌飲料） よーぐると 全脂無糖,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,REFUSE,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,ENERC,2880.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,ENERC_KCAL,700.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,WATER,16.2,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,PROTCAA,0.5,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,PROT-,0.6,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,FATNLEA,74.5,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CHOLE,210.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,FAT-,81.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CHOAVLM,0.6,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CHOAVL,0.5,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CHOAVLDF-,6.8,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,FIB-,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CHOCDF-,0.2,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,ASH,2.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,NA,750.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,K,28.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CA,15.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,MG,2.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,P,15.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,FE,0.1,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,ZN,0.1,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,MN,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,ID,2.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CR,1.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,MO,3.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,RETOL,500.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CARTA,2.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CARTB,190.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CRYPXB,6.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,CARTBEQ,190.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,VITA_RAE,520.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,VITD,0.6,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,TOCPHA,1.5,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,TOCPHG,0.1,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,VITK,17.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,THIA,0.01,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,RIBF,0.03,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,NIA,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,NE,0.1,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,VITB12,0.1,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,PANTAC,0.06,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,BIOT,0.4,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,VITC,0.0,ingredient-nutrition,seibunhyo
+14017,（ばたー類） 無発酵ばたー 有塩ばたー,NACL_EQ,1.9,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,REFUSE,0.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,ENERC,1300.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,ENERC_KCAL,313.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,WATER,45.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,PROTCAA,21.6,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,PROT-,22.7,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,FATNLEA,24.7,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CHOLE,78.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,FAT-,26.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CHOAVLM,0.1,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CHOAVL,0.1,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CHOAVLDF-,2.4,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,FIB-,0.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CHOCDF-,1.3,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,OA,1.3,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,ASH,5.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,NA,1100.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,K,60.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CA,630.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,MG,19.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,P,730.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,FE,0.3,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,ZN,3.2,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CU,0.08,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,MN,0.02,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,ID,18.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,SE,13.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CR,2.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,MO,9.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,RETOL,240.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CARTA,1.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CARTB,130.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CRYPXB,2.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,CARTBEQ,130.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,VITA_RAE,250.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,TOCPHA,1.1,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,VITK,2.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,THIA,0.03,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,RIBF,0.38,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,NIA,0.1,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,NE,5.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,VITB6A,0.01,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,VITB12,3.2,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,FOL,27.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,PANTAC,0.14,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,BIOT,2.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,VITC,0.0,ingredient-nutrition,seibunhyo
+13040,＜牛乳及び乳製品＞ （ちーず類） ぷろせすちーず,NACL_EQ,2.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,REFUSE,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,ENERC,649.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,ENERC_KCAL,157.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,WATER,78.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,PROTCAA,1.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,PROT-,1.9,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,FATNLEA,14.9,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CHOLE,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,FAT-,16.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CHOAVLM,9.4,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CHOAVL,8.9,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CHOAVLDF-,3.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,FIB-,0.2,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CHOCDF-,2.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,ASH,0.5,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,NA,12.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,K,230.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CA,5.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,MG,28.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,P,49.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,FE,0.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,ZN,0.3,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CU,0.22,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,MN,0.59,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,RETOL,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CARTA,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CARTB,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,VITD,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,THIA,0.01,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,RIBF,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,NIA,0.4,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,NE,0.8,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,VITB6A,0.02,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,VITB12,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,FOL,4.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,PANTAC,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,VITC,0.0,ingredient-nutrition,seibunhyo
+07158,ここなっつ ここなっつみるく,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,REFUSE,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,ENERC,663.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,ENERC_KCAL,156.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,WATER,60.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,PROTCAA,2.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,PROT-,2.5,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,FATNLEA,0.2,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CHOLE,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,FAT-,0.3,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CHOAVLM,38.1,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CHOAVL,34.6,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CHOAVLDF-,36.1,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,FIB-,1.5,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CHOCDF-,37.1,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,ASH,0.1,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,NA,1.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,K,29.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CA,3.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,MG,7.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,P,34.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,FE,0.1,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,ZN,0.6,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CU,0.1,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,MN,0.35,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,ID,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,SE,1.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CR,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,MO,30.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,RETOL,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CARTA,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CARTB,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,VITD,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,VITK,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,THIA,0.02,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,RIBF,0.01,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,NIA,0.2,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,NE,0.8,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,VITB6A,0.02,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,VITB12,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,FOL,3.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,PANTAC,0.25,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,BIOT,0.5,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,VITC,0.0,ingredient-nutrition,seibunhyo
+01088,こめ ［水稲めし］ 精白米 うるち米,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,REFUSE,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,ENERC,402.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,ENERC_KCAL,95.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,WATER,75.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,PROTCAA,2.3,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,PROT-,2.6,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,FATNLEA,0.3,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CHOLE,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,FAT-,0.4,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CHOAVLM,21.4,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CHOAVL,19.5,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CHOAVLDF-,20.7,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,FIB-,1.3,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,POLYL,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CHOCDF-,21.6,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,ASH,0.4,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,NA,120.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,K,9.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CA,6.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,MG,6.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,P,18.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,FE,0.2,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,ZN,0.1,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CU,0.04,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,MN,0.12,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,SE,2.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CR,1.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,MO,2.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,RETOL,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CARTA,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CARTB,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,VITD,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,TOCPHB,0.1,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,THIA,0.02,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,RIBF,0.01,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,NIA,0.2,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,NE,0.7,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,VITB6A,0.01,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,VITB12,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,FOL,2.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,PANTAC,0.13,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,BIOT,0.3,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,VITC,0.0,ingredient-nutrition,seibunhyo
+01039,こむぎ ［うどん・そうめん類］ うどん ゆで,NACL_EQ,0.3,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,REFUSE,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,ENERC,1476.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,ENERC_KCAL,347.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,WATER,11.3,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,PROTCAA,12.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,PROT-,12.9,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,FATNLEA,1.5,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CHOLE,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,FAT-,1.8,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CHOAVLM,73.4,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CHOAVL,66.9,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CHOAVLDF-,68.9,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,FIB-,5.4,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CHOCDF-,73.1,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,ASH,0.8,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,NA,1.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,K,200.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CA,18.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,MG,55.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,P,130.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,FE,1.4,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,ZN,1.5,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CU,0.28,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,MN,0.82,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,ID,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,SE,63.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CR,1.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,MO,53.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,RETOL,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,CARTBEQ,9.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,VITA_RAE,1.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,VITD,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,TOCPHA,0.3,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,TOCPHB,0.2,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,VITK,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,THIA,0.19,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,RIBF,0.06,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,NIA,2.3,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,NE,4.9,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,VITB6A,0.11,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,VITB12,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,FOL,13.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,PANTAC,0.65,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,BIOT,4.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,VITC,0.0,ingredient-nutrition,seibunhyo
+01063,こむぎ ［まかろに・すぱげってぃ類］ まかろに・すぱげってぃ 乾,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,REFUSE,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,ENERC,1086.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,ENERC_KCAL,257.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,WATER,37.2,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,PROTCAA,9.3,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,PROT-,10.3,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,FATNLEA,3.1,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CHOLE,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,FAT-,3.4,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CHOAVLM,45.6,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CHOAVL,41.6,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CHOAVLDF-,46.9,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,FIB-,2.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CHOCDF-,47.6,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,ASH,1.5,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,NA,530.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,K,97.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CA,11.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,MG,22.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,P,77.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,FE,0.8,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,ZN,0.7,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CU,0.11,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,MN,0.3,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,RETOL,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CARTA,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CARTB,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,VITD,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,TOCPHA,0.6,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,TOCPHB,0.1,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,TOCPHG,0.7,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,VITK,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,THIA,0.13,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,RIBF,0.06,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,NIA,1.3,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,NE,3.4,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,VITB6A,0.05,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,VITB12,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,FOL,36.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,PANTAC,0.55,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,VITC,0.0,ingredient-nutrition,seibunhyo
+01037,こむぎ ［ぱん類］ なん,NACL_EQ,1.3,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,REFUSE,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,ENERC,1050.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,ENERC_KCAL,248.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,WATER,39.2,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,PROTCAA,7.4,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,PROT-,8.9,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,FATNLEA,3.7,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CHOLE,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,FAT-,4.1,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CHOAVLM,48.2,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CHOAVL,44.2,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CHOAVLDF-,44.1,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,FIB-,4.2,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,POLYL,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CHOCDF-,46.4,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,ASH,1.4,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,NA,470.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,K,86.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CA,22.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,MG,18.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,P,67.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,FE,0.5,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,ZN,0.5,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CU,0.09,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,MN,0.25,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,ID,1.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,SE,22.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CR,1.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,MO,15.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,RETOL,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CARTA,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CARTB,4.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,CARTBEQ,4.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,VITD,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,TOCPHA,0.4,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,TOCPHB,0.1,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,TOCPHG,0.3,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,TOCPHD,0.1,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,VITK,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,THIA,0.07,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,RIBF,0.05,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,NIA,1.1,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,NE,2.6,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,VITB6A,0.03,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,FOL,30.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,PANTAC,0.42,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,BIOT,2.3,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,VITC,0.0,ingredient-nutrition,seibunhyo
+01026,こむぎ ［ぱん類］ 角形食ぱん 食ぱん,NACL_EQ,1.2,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,REFUSE,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,ENERC,1485.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,ENERC_KCAL,349.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,WATER,14.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,PROTCAA,7.7,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,PROT-,8.3,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,FATNLEA,1.3,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CHOLE,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,FAT-,1.5,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CHOAVLM,80.3,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CHOAVL,73.1,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CHOAVLDF-,74.1,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,FIB-,2.5,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CHOCDF-,75.8,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,ASH,0.4,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,K,110.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CA,20.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,MG,12.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,P,60.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,FE,0.5,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,ZN,0.3,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CU,0.08,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,MN,0.43,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,SE,4.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CR,2.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,MO,12.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,RETOL,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,VITD,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,TOCPHA,0.3,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,TOCPHB,0.2,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,VITK,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,THIA,0.11,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,RIBF,0.03,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,NIA,0.6,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,NE,2.4,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,VITB6A,0.03,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,VITB12,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,FOL,9.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,PANTAC,0.53,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,BIOT,1.2,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,VITC,0.0,ingredient-nutrition,seibunhyo
+01015,こむぎ ［小麦粉］ 薄力粉 1等,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,ENERC,1405.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,ENERC_KCAL,338.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,WATER,5.7,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,PROTCAA,10.2,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,PROT-,13.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,FATNLEA,11.6,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CHOLE,8.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,FAT-,12.2,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CHOAVLDF-,29.8,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,FIB-,36.9,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CHOCDF-,63.3,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,ASH,5.8,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,NA,40.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,K,1700.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CA,540.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,MG,220.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,P,400.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,FE,29.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,ZN,2.9,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CU,0.8,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,MN,4.84,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,ID,5.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,SE,18.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CR,21.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,MO,42.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,RETOL,0.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CARTA,20.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CARTB,380.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,CARTBEQ,390.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,VITA_RAE,32.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,VITD,0.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,TOCPHA,4.4,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,TOCPHB,0.6,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,TOCPHG,2.6,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,TOCPHD,0.1,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,VITK,86.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,THIA,0.41,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,RIBF,0.25,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,NIA,7.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,NE,8.7,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,VITB6A,0.59,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,VITB12,0.1,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,FOL,60.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,PANTAC,2.06,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,BIOT,28.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,VITC,2.0,ingredient-nutrition,seibunhyo
+17061,＜香辛料類＞ かれー粉,NACL_EQ,0.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,ENERC,1974.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,ENERC_KCAL,474.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,WATER,3.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,PROTCAA,5.7,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,PROT-,6.5,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,FATNLEA,32.8,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CHOLE,20.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,FAT-,34.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CHOAVLM,38.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CHOAVL,35.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CHOAVLDF-,40.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,FIB-,6.4,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CHOCDF-,44.7,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,OA,0.4,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,ASH,11.7,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,NA,4200.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,K,320.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CA,90.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,MG,31.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,P,110.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,FE,3.5,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,ZN,0.5,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CU,0.13,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,MN,0.58,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,ID,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,SE,10.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CR,7.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,MO,14.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,RETOL,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CARTA,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CARTB,60.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CRYPXB,19.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,CARTBEQ,69.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,VITA_RAE,6.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,VITD,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,TOCPHA,2.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,TOCPHB,0.2,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,TOCPHG,3.2,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,TOCPHD,1.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,VITK,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,THIA,0.09,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,RIBF,0.06,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,NIA,0.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,NE,1.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,VITB6A,0.07,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,FOL,9.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,PANTAC,0.38,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,BIOT,4.1,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,VITC,0.0,ingredient-nutrition,seibunhyo
+17051,＜調味料類＞ （るう類） かれーるう,NACL_EQ,10.6,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,ENERC,1742.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,ENERC_KCAL,412.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,WATER,1.7,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,PROTCAA,9.9,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,PROT-,16.2,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,FATNLEA,8.3,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CHOLE,0.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,FAT-,9.7,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CHOAVLDF-,74.5,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CHOCDF-,66.8,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,ASH,5.6,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,NA,4.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,K,2700.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CA,110.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,MG,170.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,P,340.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,FE,12.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,ZN,2.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CU,1.2,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,ID,3.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,SE,5.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CR,17.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,MO,41.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,RETOL,0.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CARTA,140.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CARTB,7200.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CRYPXB,2600.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,CARTBEQ,8600.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,VITA_RAE,720.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,VITD,0.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,THIA,0.43,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,RIBF,1.15,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,NIA,11.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,NE,13.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,BIOT,49.0,ingredient-nutrition,seibunhyo
+17073,＜香辛料類＞ とうがらし 粉,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,ENERC,1532.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,ENERC_KCAL,362.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,WATER,12.7,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,PROTCAA,8.9,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,PROT-,11.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,FATNLEA,5.5,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CHOLE,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,FAT-,6.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CHOAVLM,42.3,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CHOAVL,38.5,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CHOAVLDF-,69.2,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CHOCDF-,66.6,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,ASH,3.7,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,NA,65.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,K,1300.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CA,410.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,MG,150.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,P,160.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,FE,20.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,ZN,1.1,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CU,1.2,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,MN,6.34,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,ID,5.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,SE,5.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CR,30.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,MO,14.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,RETOL,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CARTA,18.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CARTB,170.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CRYPXB,4.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,CARTBEQ,180.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,VITA_RAE,15.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,VITD,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,THIA,0.1,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,RIBF,0.24,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,NIA,1.2,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,NE,2.2,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,VITB12,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,FOL,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,BIOT,20.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,VITC,0.0,ingredient-nutrition,seibunhyo
+17063,＜香辛料類＞ こしょう 黒 粉,NACL_EQ,0.2,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,ENERC,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,ENERC_KCAL,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,WATER,0.1,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,PROT-,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CHOLE,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,FAT-,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CHOAVLDF-,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,FIB-,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CHOCDF-,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,ASH,99.9,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,NA,39000.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,K,100.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CA,22.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,MG,18.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,P,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CU,0.01,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,ID,1.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,SE,1.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CR,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,MO,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,RETOL,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,VITD,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,VITK,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,THIA,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,RIBF,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,NIA,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,NE,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,VITB6A,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,VITB12,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,FOL,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,PANTAC,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,BIOT,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,VITC,0.0,ingredient-nutrition,seibunhyo
+17012,＜調味料類＞ （食塩類） 食塩,NACL_EQ,99.5,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,REFUSE,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,ENERC,1667.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,ENERC_KCAL,391.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,WATER,0.7,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,PROT-,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CHOLE,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,FAT-,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CHOAVLM,104.2,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CHOAVL,99.3,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CHOAVLDF-,99.3,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,FIB-,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CHOCDF-,99.3,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,ASH,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,NA,1.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,K,2.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CA,1.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,ZN,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CU,0.01,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,MN,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,ID,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,SE,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CR,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,MO,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,RETOL,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,VITD,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,TOCPHA,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,VITK,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,THIA,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,RIBF,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,NIA,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,NE,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,VITB6A,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,VITB12,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,FOL,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,PANTAC,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,BIOT,0.1,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,VITC,0.0,ingredient-nutrition,seibunhyo
+03003,（砂糖類） 車糖 上白糖,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,ENERC,323.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,ENERC_KCAL,76.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,WATER,67.1,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,PROTCAA,6.1,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,PROT-,7.7,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CHOLE,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,FAT-,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CHOAVLM,1.6,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CHOAVL,1.6,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CHOAVLDF-,8.6,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,POLYL,0.1,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CHOCDF-,7.9,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,OA,0.9,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,ASH,15.1,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,NA,5700.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,K,390.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CA,29.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,MG,65.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,P,160.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,FE,1.7,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,ZN,0.9,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CU,0.01,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,MN,1.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,ID,1.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,SE,11.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CR,3.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,MO,48.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,RETOL,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CARTA,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CARTB,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,VITD,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,TOCPHA,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,VITK,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,THIA,0.05,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,RIBF,0.17,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,NIA,1.3,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,NE,1.6,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,VITB6A,0.17,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,VITB12,0.1,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,FOL,33.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,PANTAC,0.48,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,BIOT,12.3,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,VITC,0.0,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,ALC,2.1,ingredient-nutrition,seibunhyo
+17007,＜調味料類＞ （しょうゆ類） こいくちしょうゆ,NACL_EQ,14.5,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,REFUSE,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,ENERC,201.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,ENERC_KCAL,47.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,WATER,65.5,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,PROTCAA,6.3,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,PROT-,9.1,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,FATNLEA,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CHOLE,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,FAT-,0.1,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CHOAVLDF-,5.5,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,FIB-,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CHOCDF-,2.7,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,ASH,22.7,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,NA,9000.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,K,230.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CA,20.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,MG,90.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,P,57.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,FE,1.2,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,ZN,0.7,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CU,0.03,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,MN,0.03,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,ID,27.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,SE,46.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CR,5.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,MO,1.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,RETOL,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CARTA,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CARTB,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,VITD,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,TOCPHA,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,THIA,0.01,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,RIBF,0.1,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,NIA,3.3,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,NE,4.3,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,VITB6A,0.1,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,VITB12,1.6,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,FOL,26.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,PANTAC,0.56,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,BIOT,7.9,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,VITC,0.0,ingredient-nutrition,seibunhyo
+17107,＜調味料類＞ （調味そーす類） 魚醤油 なんぷらー,NACL_EQ,22.9,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,REFUSE,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,ENERC,3644.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,ENERC_KCAL,886.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,WATER,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,PROT-,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,FATNLEA,97.2,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CHOLE,2.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,FAT-,100.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CHOAVLDF-,2.8,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,FIB-,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CHOCDF-,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,ASH,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,NA,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,MG,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,FE,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CU,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,MN,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,ID,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,SE,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CR,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,MO,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,RETOL,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CARTA,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CARTB,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,CARTBEQ,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,VITA_RAE,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,VITD,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,TOCPHA,13.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,TOCPHB,1.2,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,TOCPHG,56.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,TOCPHD,11.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,VITK,170.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,THIA,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,RIBF,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,NIA,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,NE,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,VITB6A,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,VITB12,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,FOL,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,PANTAC,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,BIOT,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,VITC,0.0,ingredient-nutrition,seibunhyo
+14006,（植物油脂類） 調合油,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,REFUSE,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,ENERC,101.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,ENERC_KCAL,24.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,WATER,90.5,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,PROTCAA,0.3,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,PROT-,0.4,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,FATNLEA,0.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,FAT-,0.2,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CHOAVLM,1.5,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CHOAVL,1.5,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CHOAVLDF-,2.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CHOCDF-,8.6,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,OA,6.7,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,ASH,0.3,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,NA,2.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,K,100.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CA,7.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,MG,8.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,P,9.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,FE,0.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,ZN,0.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CU,0.02,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,MN,0.03,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,ID,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,SE,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CR,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,MO,1.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CARTB,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CRYPXB,13.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,CARTBEQ,6.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,VITA_RAE,1.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,VITD,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,VITK,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,THIA,0.04,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,RIBF,0.02,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,NIA,0.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,NE,0.1,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,VITB6A,0.05,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,FOL,19.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,PANTAC,0.18,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,BIOT,0.3,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,VITC,50.0,ingredient-nutrition,seibunhyo
+07156,（かんきつ類） れもん 果汁 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,REFUSE,15.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,ENERC,225.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,ENERC_KCAL,53.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,WATER,84.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,PROTCAA,0.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,PROT-,0.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,FAT-,0.2,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CHOAVLM,12.4,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CHOAVL,12.2,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CHOAVLDF-,13.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,FIB-,1.4,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,POLYL,0.7,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CHOCDF-,15.5,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,OA,0.5,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,ASH,0.2,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,K,120.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CA,3.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,MG,3.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,P,12.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,FE,0.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CU,0.05,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,MN,0.02,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,ID,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,SE,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CR,1.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,MO,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CARTB,12.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CRYPXB,7.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,CARTBEQ,15.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,VITA_RAE,1.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,VITD,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,TOCPHA,0.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,TOCPHG,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,THIA,0.02,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,NIA,0.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,NE,0.1,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,VITB6A,0.04,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,FOL,2.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,PANTAC,0.03,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,BIOT,0.5,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,VITC,4.0,ingredient-nutrition,seibunhyo
+07148,りんご 皮なし 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,REFUSE,10.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,ENERC,75.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,ENERC_KCAL,18.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,WATER,92.4,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,PROT-,1.4,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,FAT-,0.4,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CHOAVLDF-,0.1,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,FIB-,4.2,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CHOCDF-,4.6,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,ASH,1.2,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,NA,4.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,K,590.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CA,84.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,MG,16.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,P,59.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,FE,1.4,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,ZN,0.4,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CU,0.09,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,MN,0.39,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,ID,2.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CR,2.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,MO,23.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CARTA,5.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CARTB,1700.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CRYPXB,34.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,CARTBEQ,1700.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,VITA_RAE,150.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,TOCPHA,1.9,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,TOCPHG,0.2,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,VITK,190.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,THIA,0.09,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,RIBF,0.11,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,NIA,1.3,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,NE,1.5,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,VITB6A,0.11,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,FOL,69.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,PANTAC,0.52,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,BIOT,6.2,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,VITC,40.0,ingredient-nutrition,seibunhyo
+06385,こりあんだー 葉 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,REFUSE,20.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,ENERC,86.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,ENERC_KCAL,21.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,WATER,91.5,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,PROTCAA,1.2,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,PROT-,2.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,FATNLEA,0.5,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CHOLE,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,FAT-,0.6,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CHOAVLM,0.3,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CHOAVL,0.3,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CHOAVLDF-,0.9,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,FIB-,4.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CHOCDF-,4.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,ASH,1.5,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,NA,1.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,K,420.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CA,240.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,MG,69.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,P,41.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,FE,1.5,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,ZN,0.6,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CU,0.2,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,MN,1.91,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,RETOL,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CARTA,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CARTB,6300.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CRYPXB,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,CARTBEQ,6300.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,VITA_RAE,520.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,VITD,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,TOCPHA,3.5,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,TOCPHB,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,TOCPHG,0.4,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,TOCPHD,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,VITK,440.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,THIA,0.08,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,RIBF,0.19,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,NIA,0.6,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,NE,1.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,VITB6A,0.11,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,VITB12,0.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,FOL,69.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,PANTAC,0.29,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,VITC,16.0,ingredient-nutrition,seibunhyo
+06238,ばじる 葉 生,NACL_EQ,0.0,ingredient-nutrition,seibunhyo

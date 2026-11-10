@@ -1,0 +1,15 @@
+{% macro thumb(r, imgs) %}{% if r.thumb.split('/')[-1] in imgs %}<a href="{{ url_for('recipe', rid=r.id) }}"><img src="{{ url_for('static', filename=r.thumb) }}" alt="레시피 문서 사진" loading="lazy"></a>{% else %}<span class="note">준비 중</span>{% endif %}{% endmacro %}
+
+{% macro tags(r, LANGS, CATS, ING, limit=99) %}<span class="tag lang">{{ LANGS.get(r.language, r.language) }}</span><span class="tag cat">{{ CATS[r.category][0] }} {{ CATS[r.category][1] }}</span>{% for k in r.ingredients[:limit] %}<a class="tag" href="{{ url_for('ingredient', key=k) }}">{{ ING[k].emoji }} {{ ING[k].ko }}</a>{% endfor %}{% if r.ingredients|length > limit %}<span class="note">…외 {{ r.ingredients|length - limit }}</span>{% endif %}{% endmacro %}
+
+{% macro rows(items, imgs, LANGS, CATS, ING, start=0) %}
+<div class="scroll"><table class="t">
+<tr><th>No.</th><th>사진</th><th>질문 (Ｑ)</th></tr>
+{% for r in items %}<tr>
+  <td class="c">{{ start + loop.index }}</td>
+  <td class="thumb">{{ thumb(r, imgs) }}</td>
+  <td><a href="{{ url_for('recipe', rid=r.id) }}"><b>{{ r.q }}</b></a><br>
+      <span class="small">{{ r.a|truncate(110, True, '…') }}</span><br>{{ tags(r, LANGS, CATS, ING, 6) }}</td>
+</tr>{% endfor %}
+</table></div>
+{% endmacro %}

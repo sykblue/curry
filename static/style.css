@@ -1,0 +1,131 @@
+/* 카레의 작은 방 — 2001년 무렵 일본 개인 홈페이지풍 */
+:root {
+  --paper: #ffffe8;      /* 본문 종이 */
+  --tile-a: #fff3b0;     /* 배경 타일 */
+  --tile-b: #ffe680;
+  --curry: #cc6600;      /* 카레색 */
+  --curry-dark: #7a3300;
+  --head: #ff9900;       /* 표 머리 */
+  --head-lite: #ffcc66;
+  --ink: #333300;
+  --link: #0000cc;
+  --visited: #800080;
+  --hot: #ff0033;
+  --leaf: #339933;
+  --line: #996633;
+  --cell: #fff8d0;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; padding: 12px 8px 30px;
+  color: var(--ink);
+  font: 14px/1.7 "MS PGothic", "ＭＳ Ｐゴシック", Osaka, "Malgun Gothic", "맑은 고딕", "Apple SD Gothic Neo", sans-serif;
+  background-color: var(--tile-a);
+  background-image:
+    radial-gradient(circle at 8px 8px, var(--tile-b) 3px, transparent 3.5px),
+    radial-gradient(circle at 24px 24px, var(--tile-b) 3px, transparent 3.5px);
+  background-size: 32px 32px;
+}
+a { color: var(--link); }
+a:visited { color: var(--visited); }
+a:hover { color: var(--hot); background: #ffff66; }
+img { max-width: 100%; height: auto; border: 0; }
+
+#wrap { max-width: 860px; margin: 0 auto; background: var(--paper); border: 4px ridge var(--head); }
+
+/* ---- 제목 ---- */
+#title { text-align: center; padding: 14px 8px 8px; background: linear-gradient(#fff, var(--tile-a)); border-bottom: 3px double var(--line); }
+#title h1 { margin: 0; font-size: 34px; line-height: 1.25; letter-spacing: 2px; font-family: "HG創英角ﾎﾟｯﾌﾟ体", "HGP創英角ﾎﾟｯﾌﾟ体", "MS PGothic", "Malgun Gothic", sans-serif; }
+#title h1 a { text-decoration: none; background: none;
+  color: var(--curry); text-shadow: 2px 2px 0 #fff, 3px 3px 0 var(--curry-dark); }
+#title .star { color: var(--hot); font-size: 20px; vertical-align: middle; }
+#title .sub { margin: 2px 0 0; font-size: 12px; color: var(--curry-dark); }
+marquee { display: block; background: #000066; color: #ffff66; font-size: 13px; padding: 3px 0; border-top: 1px solid #fff; border-bottom: 1px solid #fff; }
+marquee a, marquee a:visited { color: #66ffff; }
+
+/* ---- 프레임풍 배치 ---- */
+#frames { display: flex; align-items: stretch; }
+#menu { flex: 0 0 172px; padding: 10px 8px; background: #ffeeaa; border-right: 3px ridge var(--head); font-size: 13px; }
+#main { flex: 1 1 auto; min-width: 0; padding: 12px 16px 20px; }
+#menu h2 { margin: 0 0 6px; padding: 2px; font-size: 13px; text-align: center; color: #fff; background: var(--curry); border: 2px outset var(--head-lite); }
+#menu ul { list-style: none; margin: 0 0 12px; padding: 0; }
+#menu li { border-bottom: 1px dotted var(--line); }
+#menu li a { display: block; padding: 4px 2px; text-decoration: none; }
+#menu li a::before { content: "▶ "; color: var(--hot); font-size: 10px; }
+#menu li small { display: block; margin: -4px 0 3px 14px; color: #886644; font-size: 11px; }
+#menu .now a { font-weight: bold; color: var(--curry-dark); background: #fff; }
+.counter { text-align: center; margin: 0 0 12px; font-size: 12px; }
+.digits { display: inline-block; margin: 3px 0; padding: 2px 5px; background: #000; color: #33ff33; border: 2px inset #999;
+  font: bold 17px/1.2 "Courier New", monospace; letter-spacing: 3px; }
+.banner { display: block; width: 88px; height: 31px; margin: 6px auto; border: 2px outset #ccc; background: linear-gradient(#ffcc00, #cc6600);
+  color: #fff; font: bold 11px/13px "MS PGothic", "Malgun Gothic", sans-serif; text-align: center; text-shadow: 1px 1px 0 #663300; padding-top: 1px; }
+.menu-note { font-size: 11px; color: #775533; text-align: center; line-height: 1.5; }
+
+/* ---- 소제목 ---- */
+h2.h { margin: 4px 0 10px; padding: 3px 8px; font-size: 17px; color: #fff; background: linear-gradient(90deg, var(--curry), var(--head) 70%, var(--head-lite));
+  border-left: 10px solid var(--curry-dark); text-shadow: 1px 1px 0 var(--curry-dark); }
+h3.h { margin: 18px 0 6px; font-size: 14px; color: var(--curry-dark); border-bottom: 2px dotted var(--curry); }
+h3.h::before { content: "◆ "; color: var(--hot); }
+hr { border: 0; height: 0; border-top: 2px dashed var(--head); margin: 16px 0; }
+.center { text-align: center; }
+.small { font-size: 12px; }
+.note { font-size: 12px; color: #775533; }
+.new { color: var(--hot); font-weight: bold; font-size: 11px; animation: blink 1s steps(2, start) infinite; }
+@keyframes blink { to { visibility: hidden; } }
+@media (prefers-reduced-motion: reduce) { .new { animation: none; } }
+.rainbow { font-weight: bold; background: linear-gradient(90deg, #ff0000, #ff9900, #009900, #0066ff, #9900cc); -webkit-background-clip: text; background-clip: text; color: transparent; }
+
+/* ---- 표 ---- */
+table.t { border-collapse: separate; border-spacing: 2px; background: var(--line); width: 100%; margin: 6px 0; }
+table.t th { background: var(--head); color: #fff; font-weight: bold; padding: 3px 6px; text-align: center; white-space: nowrap; font-size: 13px; }
+table.t td { background: var(--cell); padding: 4px 6px; vertical-align: top; }
+table.t tr:nth-child(even) td { background: #ffffe8; }
+table.t td.num { text-align: right; white-space: nowrap; font-family: "Courier New", monospace; }
+table.t td.c { text-align: center; white-space: nowrap; }
+.scroll { overflow-x: auto; }
+.box { border: 2px ridge var(--head); background: #fff; padding: 8px 10px; margin: 8px 0; }
+.box.yellow { background: #ffffcc; }
+.bar { display: inline-block; height: 10px; background: linear-gradient(var(--head-lite), var(--curry)); border: 1px solid var(--curry-dark); vertical-align: middle; }
+
+/* ---- 레시피 ---- */
+.tag { display: inline-block; padding: 0 5px; margin: 1px 2px 1px 0; font-size: 12px; background: #fff; border: 1px solid var(--line); white-space: nowrap; text-decoration: none; }
+.tag.lang { background: #000066; color: #fff; border-color: #000066; }
+.tag.cat { background: var(--leaf); color: #fff; border-color: #226622; }
+a.tag:hover { background: #ffff66; color: var(--hot); }
+.qa-q { font-size: 16px; font-weight: bold; color: var(--curry-dark); margin: 6px 0; }
+.qa-q::before { content: "Ｑ． "; color: var(--hot); }
+.qa-a { white-space: pre-wrap; overflow-wrap: anywhere; }
+.qa-a::before { content: "Ａ． "; color: #0033cc; font-weight: bold; }
+details.orig { margin: 6px 0 10px; padding: 4px 10px; border: 1px dashed var(--line); background: #fffff4; font-size: 13px; }
+details.orig summary { cursor: pointer; color: var(--link); }
+details.orig .qa-q { font-size: 14px; }
+.photo { text-align: center; margin: 10px 0; }
+.photo img { border: 3px double var(--line); background: #fff; padding: 3px; max-height: 620px; }
+.noimg { display: inline-block; padding: 26px 14px; border: 2px dashed var(--line); background: #fff; color: #997755; font-size: 12px; }
+td.thumb { width: 84px; text-align: center; }
+td.thumb img { max-width: 72px; max-height: 96px; border: 1px solid var(--line); background: #fff; }
+.pager { text-align: center; margin: 10px 0; }
+.pager a, .pager b { display: inline-block; padding: 0 5px; }
+form.filter { background: #ffeeaa; border: 2px groove var(--head); padding: 6px 8px; margin: 6px 0 10px; font-size: 13px; }
+form.filter label { display: inline-block; margin: 2px 8px 2px 0; white-space: nowrap; }
+input, select, textarea, button { font: inherit; font-size: 13px; }
+input[type=text], textarea, select { border: 2px inset #ccc; background: #fff; max-width: 100%; }
+button, .btn { border: 2px outset #ddd; background: #dddddd; color: #000; padding: 1px 10px; cursor: pointer; text-decoration: none; }
+button:active { border-style: inset; }
+
+#foot { text-align: center; font-size: 12px; padding: 10px 8px 12px; border-top: 3px double var(--line); background: #ffeeaa; color: #664422; }
+
+/* ---- 휴대폰 ---- */
+@media (max-width: 640px) {
+  body { padding: 4px 0 20px; }
+  #title h1 { font-size: 25px; letter-spacing: 0; }
+  #frames { display: block; }
+  #menu { border-right: 0; border-bottom: 3px ridge var(--head); }
+  #menu ul { display: flex; flex-wrap: wrap; gap: 0 10px; }
+  #menu li { border: 0; }
+  #menu li small, .menu-extra { display: none; }
+  #main { padding: 10px 10px 16px; }
+  td.thumb { width: 60px; }
+  td.thumb img { max-width: 52px; }
+}

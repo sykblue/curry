@@ -1,0 +1,47 @@
+{% extends "base.html" %}{% import "_macros.html" as m %}
+{% block title %}{{ r.q|truncate(30, True, '…') }}{% endblock %}
+{% block main %}
+<h2 class="h">레시피 수첩 No.{{ r.row_idx }}</h2>
+<p>{{ m.tags(r, LANGS, CATS, ING) }}</p>
+<p class="qa-q">{{ r.q }}</p>
+<div class="box"><div class="qa-a">{{ r.a }}</div></div>
+{% if r.query_ko %}
+<details class="orig"><summary>원문 보기 (데이터셋에 실린 글)</summary>
+<p class="qa-q">{{ r.query }}</p>
+<div class="qa-a">{{ r.answer }}</div>
+<p class="note">※ 위 한글은 원문을 옮긴 번역입니다. 분량·순서가 헷갈리면 원문과 문서 사진을 확인하세요.</p>
+</details>
+{% endif %}
+
+<h3 class="h">원본 레시피 문서</h3>
+<div class="photo">
+{% if r.image.split('/')[-1] in imgs %}
+  <a href="{{ url_for('static', filename=r.image) }}" target="_blank"><img src="{{ url_for('static', filename=r.image) }}" alt="이 질문의 근거가 된 레시피 문서 사진"></a>
+  <br><span class="note">사진을 누르면 크게 볼 수 있습니다.</span>
+{% else %}
+  <span class="noimg">준비 중입니다… (사진을 아직 내려받지 못했습니다)</span>
+{% endif %}
+</div>
+
+{% if r.ingredients %}
+<h3 class="h">나오는 재료의 영양 (가식부 100g당)</h3>
+<div class="scroll"><table class="t">
+<tr><th>재료</th>{% for id, name, unit in NUTS %}<th>{{ name }}<br><span class="small">{{ unit }}</span></th>{% endfor %}</tr>
+{% for k in r.ingredients %}<tr><td><a href="{{ url_for('ingredient', key=k) }}">{{ ING[k].emoji }} {{ ING[k].ko }}</a></td>
+{% for id, name, unit in NUTS %}<td class="num">{{ ING[k].nutrition.get(id, '-') }}</td>{% endfor %}</tr>{% endfor %}
+</table></div>
+<p class="note">※ 재료 자체의 100g당 값입니다. 요리 1인분의 영양가가 아닙니다. 재료는 질문·답 글에서 낱말로 찾은 것이라 빠지거나 잘못 잡힌 것이 있을 수 있습니다.</p>
+{% endif %}
+
+{% if related %}
+<h3 class="h">재료가 비슷한 레시피</h3>
+<ul>{% for x in related %}<li><a href="{{ url_for('recipe', rid=x.id) }}">{{ x.q }}</a></li>{% endfor %}</ul>
+{% endif %}
+<hr>
+<p class="pager">
+  {% if prev %}<a href="{{ url_for('recipe', rid=prev.id) }}">&lt;&lt;이전 레시피</a>{% endif %}
+  <a href="{{ url_for('recipes') }}">[목록으로]</a>
+  {% if next %}<a href="{{ url_for('recipe', rid=next.id) }}">다음 레시피&gt;&gt;</a>{% endif %}
+</p>
+<p class="note center">출처: racineai/VDR_Cooking_Recipes (filtered) {{ r.row_idx }}번째 행 ／ <a href="{{ url_for('api_recipe', rid=r.id) }}">JSON</a></p>
+{% endblock %}

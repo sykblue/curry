@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}{{ ing.ko }}{% endblock %}
+{% block main %}
+<h2 class="h">{{ ing.emoji }} {{ ing.ko }}</h2>
+<h3 class="h">영양 성분 (가식부 100g당)</h3>
+<div class="scroll"><table class="t" style="max-width:420px">
+<tr><th>성분</th><th>성분 식별자</th><th>값</th></tr>
+{% for id, name, unit in NUTS %}<tr><td>{{ name }}</td><td class="c">{{ id }}</td><td class="num">{{ ing.nutrition.get(id, '-') }} {{ unit }}</td></tr>{% endfor %}
+</table></div>
+<p class="note">일본식품표준성분표의 식품 번호 {{ ing.food_code }} (원본 이름: {{ ing.food_name }}) 값입니다.
+이 재료에 연결된 영양소는 모두 {{ ing.nutrition|length }}가지입니다.</p>
+
+{% if ing.pairs %}
+<h3 class="h">함께 자주 나오는 재료</h3>
+<p>{% for k in ing.pairs %}<a class="tag" href="{{ url_for('ingredient', key=k) }}">{{ ING[k].emoji }} {{ ING[k].ko }}</a>{% endfor %}</p>
+{% endif %}
+
+<h3 class="h">이 재료가 나오는 레시피 ({{ recs|length }}건)</h3>
+{% if recs %}
+<ul>{% for r in recs[:15] %}<li><span class="tag lang">{{ LANGS.get(r.language, r.language) }}</span> <a href="{{ url_for('recipe', rid=r.id) }}">{{ r.q }}</a></li>{% endfor %}</ul>
+{% if recs|length > 15 %}<p><a href="{{ url_for('recipes', ing=ing.key) }}">≫ {{ recs|length }}건 모두 보기</a></p>{% endif %}
+{% else %}<p>아직 이 재료가 나오는 레시피가 없습니다.</p>{% endif %}
+<hr><p class="pager"><a href="{{ url_for('ingredients') }}">[식재료 도감으로 돌아가기]</a></p>
+{% endblock %}

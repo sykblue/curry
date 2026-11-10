@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}식재료 도감{% endblock %}
+{% block main %}
+<h2 class="h">식재료 도감</h2>
+<p>카레 레시피에 나오는 재료를 모았습니다. 재료를 누르면 <b>영양 성분</b>과 그 재료가 나오는 레시피를 볼 수 있어요.</p>
+<div class="box yellow small">
+  <b>◆ 카레 지식 그래프</b> — Japanese-FoodKG 와 같은 「레시피 ─ 식재료 ─ 영양소」 구조입니다.<br>
+  레시피 {{ STATS.recipes }} ／ 식재료 {{ STATS.ingredients }} ／ 레시피─식재료 연결 {{ STATS.rec_edges }} ／ 식재료─영양소 연결 {{ STATS.nut_edges }}<br>
+  내려받기: {% for d in downloads %}<a href="{{ url_for('download', name=d) }}">{{ d }}</a>{{ ' ／ ' if not loop.last }}{% endfor %}
+</div>
+<div class="scroll"><table class="t">
+<tr><th>순위</th><th>재료</th><th>그래프 노드 이름<br><span class="small">(일본어 원본)</span></th><th>나오는 레시피</th><th>에너지<br><span class="small">kcal/100g</span></th></tr>
+{% for i in items %}<tr>
+  <td class="c">{{ loop.index }}</td>
+  <td><a href="{{ url_for('ingredient', key=i.key) }}">{{ i.emoji }} <b>{{ i.ko }}</b></a></td>
+  <td>{{ i.name_kg }}</td>
+  <td><span class="bar" style="width:{{ (i.count / top * 120)|round|int + 1 }}px"></span> {{ i.count }}</td>
+  <td class="num">{{ i.nutrition.get('ENERC_KCAL', '-') }}</td>
+</tr>{% endfor %}
+</table></div>
+<p class="note">※ 그래프 노드 이름은 Japanese-FoodKG 규칙대로 가타카나를 히라가나로 바꾼 것입니다.</p>
+{% endblock %}

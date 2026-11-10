@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/
+data/counter.json
+data/bbs.json
+data/*.tmp
+Japanese-FoodKG-master-main/
+.env
