@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>이 사이트는 ＊ 카레의 작은 방</title>
+<link rel="stylesheet" href="/curry/static/style.css">
+</head>
+<body>
+<div id="wrap">
+  <div id="title">
+    <h1><span class="star">★☆</span> <a href="/curry/">카레의 작은 방</a> <span class="star">☆★</span></h1>
+    <p class="sub">～ 세계의 카레 레시피 Q&amp;A 265건 ～　Since 2001.4.1</p>
+  </div>
+  <marquee scrollamount="4">
+    어서 오세요♪　카레 레시피 Q&amp;A 265건 · 식재료 49종 · 영양 성분 2361건을 실었습니다　／　이 사이트는 링크 프리입니다　／　오늘 저녁은 카레 어떠세요？ (^o^)／
+  </marquee>
+  <div id="frames">
+    <div id="menu">
+      <h2>■ MENU ■</h2>
+      
+      <ul>
+        <li class=""><a href="/curry/">처음 화면</a><small>TOP</small></li>
+        <li class=""><a href="/curry/recipes/">레시피 수첩</a><small>카레 레시피 Q&amp;A</small></li>
+        <li class=""><a href="/curry/ingredients/">식재료 도감</a><small>재료 · 영양 성분</small></li>
+        <li class="now"><a href="/curry/about/">이 사이트는</a><small>자료 출처 · 내려받기</small></li>
+      </ul>
+      <div class="menu-extra">
+        <h2>■ LINK ■</h2>
+        <span class="banner">카레의 작은 방<br>LINK FREE</span>
+        <p class="menu-note">배너는 자유롭게♪<br>800×600 이상 권장<br>Sorry, 이 사이트는<br>카레 only 입니다.</p>
+      </div>
+    </div>
+    <div id="main">
+
+<h2 class="h">이 사이트는</h2>
+<p>공개 데이터셋에서 카레에 관한 것만 골라 만든 레시피 소개 사이트입니다. 화면은 2000년대 초 일본 개인 홈페이지 분위기로 꾸몄습니다.</p>
+
+<h3 class="h">자료 출처</h3>
+<div class="scroll"><table class="t">
+<tr><th>자료</th><th>어디에 썼나</th></tr>
+<tr><td><a href="https://huggingface.co/datasets/racineai/VDR_Cooking_Recipes">racineai/VDR_Cooking_Recipes</a> (filtered, Apache-2.0)</td>
+    <td>11,171행 가운데 질문·답에 카레가 나오는 265행. 질문, 답, 언어, 레시피 문서 사진.</td></tr>
+<tr><td>Japanese-FoodKG (일본어 레시피-식재료 지식 그래프)</td>
+    <td>「레시피 ─ 식재료 ─ 영양소」 그래프 구조, 가타카나→히라가나 식재료 정규화, 엣지 CSV 형식, RDF 이름공간. 원본 레시피 데이터(Cookpad·라쿠텐)는 폴더에 들어 있지 않아 쓰지 않았습니다.</td></tr>
+<tr><td><a href="https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html">일본식품표준성분표</a> (문부과학성)</td>
+    <td>식재료 49종의 영양 성분 (가식부 100g당).</td></tr>
+</table></div>
+
+<h3 class="h">읽을 때 주의</h3>
+<ul>
+  <li>일본어 문서 46건은 질문과 답을 한글로 옮겨 보여 주고, 원문은 「원문 보기」에 두었습니다. 나머지는 데이터셋에 실린 글 그대로입니다. 틀린 곳이 있을 수 있으니, 만들기 전에 원본 문서 사진을 꼭 확인하세요.</li>
+  <li>재료 표시는 질문·답 글에서 낱말을 찾아 붙인 것입니다. 빠지거나 잘못 붙은 재료가 있을 수 있습니다.</li>
+  <li>영양 성분은 재료 100g당 값이며, 요리 1인분의 영양가가 아닙니다.</li>
+  <li>언어 표시는 데이터셋의 language 값이라 질문 글의 언어와 다를 때가 있습니다.</li>
+</ul>
+
+<h3 class="h">데이터 내려받기 · API</h3>
+<ul>
+  <li><a href="/curry/data/curry_recipes.csv">curry_recipes.csv</a></li><li><a href="/curry/data/curry_recipes.json">curry_recipes.json</a></li><li><a href="/curry/data/curry_edges.csv">curry_edges.csv</a></li><li><a href="/curry/data/seibunhyo_edges.csv">seibunhyo_edges.csv</a></li><li><a href="/curry/data/ingredients.json">ingredients.json</a></li><li><a href="/curry/data/curry_kg.ttl">curry_kg.ttl</a></li>
+</ul>
+
+<p class="small">JSON: <a href="/curry/api/recipes.json">api/recipes.json</a> ／ <a href="/curry/api/ingredients.json">api/ingredients.json</a> ／ <a href="/curry/api/kg.json">api/kg.json</a> (레시피 ─ 식재료 ─ 영양소 그래프)</p>
+
+
+    </div>
+  </div>
+  <div id="foot">
+    레시피 자료: <a href="https://huggingface.co/datasets/racineai/VDR_Cooking_Recipes">racineai/VDR_Cooking_Recipes</a> (Apache-2.0)
+    ／ 영양 자료: 일본식품표준성분표 (문부과학성) ／ 그래프 구조: Japanese-FoodKG<br>
+    Copyright (C) 2001- 카레의 작은 방 All Rights Reserved.　<a href="#wrap">▲맨 위로</a>
+  </div>
+</div>
+</body>
+</html>
